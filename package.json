@@ -1,0 +1,15 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "keywords": [],
+  "author": "David Habetyan",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
