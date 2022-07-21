@@ -103,4 +103,7 @@ function isLastDigitsSame(...number) {
 console.log(isLastDigitsSame(134, 34, 4564, ));
 console.log(isLastDigitsSame(134, 33));
 
+///asfnaf
+
+
 
